@@ -1,0 +1,308 @@
+{
+  "1": {
+    "taxies": [7,2,8],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "2": {
+    "taxies": [1,9,10],
+    "buses": [13,24,19,22],
+	"metros": [],
+	"waterbuses": []
+  },
+  "3": {
+    "taxies": [10,4,19],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "4": {
+    "taxies": [3,11],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "5": {
+    "taxies": [11,6],
+    "buses": [19,6,20],
+	"metros": [],
+	"waterbuses": []
+  },
+  "6": {
+    "taxies": [5,12,100],
+    "buses": [5,20,100],
+	"metros": [19,49,100],
+	"waterbuses": []
+  },
+  "7": {
+    "taxies": [1,8,14],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "8": {
+    "taxies": [1,7,9,14,15,16],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "9": {
+    "taxies": [2,8,16],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "10": {
+    "taxies": [2,3,17],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "11": {
+    "taxies": [4,5,12,19],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "12": {
+    "taxies": [6,11,20],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "13": {
+    "taxies": [14,28],
+    "buses": [42,38,24,2],
+	"metros": [],
+	"waterbuses": []
+  },
+  "14": {
+    "taxies": [13,7,8,15,21],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "15": {
+    "taxies": [8,14,16],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "16": {
+    "taxies": [8,9,15,17,22],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "17": {
+    "taxies": [10,16,18],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "18": {
+    "taxies": [17,23],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "19": {
+    "taxies": [3,11,20,23],
+    "buses": [2,5,20,22],
+	"metros": [6,22],
+	"waterbuses": []
+  },
+  "20": {
+    "taxies": [12,19,23,27,33],
+    "buses": [6,19,33],
+	"metros": [],
+	"waterbuses": []
+  },
+  "21": {
+    "taxies": [14,22,24,28],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "22": {
+    "taxies": [16,21,24,25,26],
+    "buses": [2,17,24,33,46],
+	"metros": [19,42],
+	"waterbuses": []
+  },
+  "23": {
+    "taxies": [18,19,20,26,27],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "24": {
+    "taxies": [21,22,29],
+    "buses": [14,22,38],
+	"metros": [],
+	"waterbuses": []
+  },
+  "25": {
+    "taxies": [22,26,30,31,32],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "26": {
+    "taxies": [22,23,25,32],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "27": {
+    "taxies": [20,23,32,33],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "28": {
+    "taxies": [13,21,29,34],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "29": {
+    "taxies": [24,28,30,35],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "30": {
+    "taxies": [25,29,38],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "31": {
+    "taxies": [25,38,39],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "32": {
+    "taxies": [25,26,27,33,39],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "33": {
+    "taxies": [20,27,32,40,46],
+    "buses": [20,22,46,49,140],
+	"metros": [],
+	"waterbuses": []
+  },
+  "34": {
+    "taxies": [28,35,42],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "35": {
+    "taxies": [29,34,36],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "36": {
+    "taxies": [35,37,41],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "37": {
+    "taxies": [36,38,41],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "38": {
+    "taxies": [30,31,37,45,46,52],
+    "buses": [13,24,42,46,75],
+	"metros": [],
+	"waterbuses": []
+  },
+  "39": {
+    "taxies": [31,32,46],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "40": {
+    "taxies": [33,47,48,49],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "41": {
+    "taxies": [36,37,43],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "42": {
+    "taxies": [34,43,50],
+    "buses": [13,38,62],
+	"metros": [22,46,84],
+	"waterbuses": []
+  },
+  "43": {
+    "taxies": [41,42,44],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "44": {
+    "taxies": [43,50,51],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "45": {
+    "taxies": [38,46,53],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "46": {
+    "taxies": [33,39,45,47,53,57],
+    "buses": [22,33,38,57,60],
+	"metros": [42,49,57],
+	"waterbuses": []
+  },
+  "47": {
+    "taxies": [40,46,48],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "48": {
+    "taxies": [40,47,54],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "49": {
+    "taxies": [40,61],
+    "buses": [33,60,164],
+	"metros": [46,141,168],
+	"waterbuses": [100,74]
+  },
+  "50": {
+    "taxies": [42,44,58,62],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  },
+  "51": {
+    "taxies": [44,52,55],
+    "buses": [],
+	"metros": [],
+	"waterbuses": []
+  }
+}

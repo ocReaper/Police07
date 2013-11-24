@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Police 07</title>
+	<script type="text/javascript" src="bower_components/jquery/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$.ajax({ 
+				url: 'places.json',
+				success: function(response) {					
+					console.table(response);
+				}
+			});
+		});
+	</script>
+	<style>
+		body {
+			background: #B1947C;
+		}
+	</style>
+</head>
+<body>
+	<div id="jsonHolder"></div>
+</body>
+</html>
